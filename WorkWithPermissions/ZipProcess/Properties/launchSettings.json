@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ZipProcess": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Универ\\Безопасность\\DeviceInfo\\DeviceInfo\\bin\\Release\\DeviceInfo.exe"
+    }
+  }
+}

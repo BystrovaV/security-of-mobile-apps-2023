@@ -1,0 +1,15 @@
+C:\Универ\Безопасность\security-of-mobile-apps-2023\WorkWithPermissions\ZipProcess\bin\Debug\net6.0\ZipProcess.exe
+C:\Универ\Безопасность\security-of-mobile-apps-2023\WorkWithPermissions\ZipProcess\bin\Debug\net6.0\ZipProcess.deps.json
+C:\Универ\Безопасность\security-of-mobile-apps-2023\WorkWithPermissions\ZipProcess\bin\Debug\net6.0\ZipProcess.runtimeconfig.json
+C:\Универ\Безопасность\security-of-mobile-apps-2023\WorkWithPermissions\ZipProcess\bin\Debug\net6.0\ZipProcess.dll
+C:\Универ\Безопасность\security-of-mobile-apps-2023\WorkWithPermissions\ZipProcess\bin\Debug\net6.0\ZipProcess.pdb
+C:\Универ\Безопасность\security-of-mobile-apps-2023\WorkWithPermissions\ZipProcess\obj\Debug\net6.0\ZipProcess.csproj.AssemblyReference.cache
+C:\Универ\Безопасность\security-of-mobile-apps-2023\WorkWithPermissions\ZipProcess\obj\Debug\net6.0\ZipProcess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Универ\Безопасность\security-of-mobile-apps-2023\WorkWithPermissions\ZipProcess\obj\Debug\net6.0\ZipProcess.AssemblyInfoInputs.cache
+C:\Универ\Безопасность\security-of-mobile-apps-2023\WorkWithPermissions\ZipProcess\obj\Debug\net6.0\ZipProcess.AssemblyInfo.cs
+C:\Универ\Безопасность\security-of-mobile-apps-2023\WorkWithPermissions\ZipProcess\obj\Debug\net6.0\ZipProcess.csproj.CoreCompileInputs.cache
+C:\Универ\Безопасность\security-of-mobile-apps-2023\WorkWithPermissions\ZipProcess\obj\Debug\net6.0\ZipProcess.dll
+C:\Универ\Безопасность\security-of-mobile-apps-2023\WorkWithPermissions\ZipProcess\obj\Debug\net6.0\refint\ZipProcess.dll
+C:\Универ\Безопасность\security-of-mobile-apps-2023\WorkWithPermissions\ZipProcess\obj\Debug\net6.0\ZipProcess.pdb
+C:\Универ\Безопасность\security-of-mobile-apps-2023\WorkWithPermissions\ZipProcess\obj\Debug\net6.0\ZipProcess.genruntimeconfig.cache
+C:\Универ\Безопасность\security-of-mobile-apps-2023\WorkWithPermissions\ZipProcess\obj\Debug\net6.0\ref\ZipProcess.dll

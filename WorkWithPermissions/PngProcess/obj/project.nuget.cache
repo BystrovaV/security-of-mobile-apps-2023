@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5xF9ZdyVO8uWO20K6rrN8jk70f8Z5jq/mka8dkHVtCV3cdzI+u+j2d2yjikvYypjneJN7VBK9kQET6h2cVFVjw==",
+  "success": true,
+  "projectFilePath": "C:\\Универ\\Безопасность\\security-of-mobile-apps-2023\\WorkWithPermissions\\PngProcess\\PngProcess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Вероника\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\Вероника\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

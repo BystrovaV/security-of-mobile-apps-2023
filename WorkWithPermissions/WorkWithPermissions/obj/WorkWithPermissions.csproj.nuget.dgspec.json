@@ -1,0 +1,253 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Универ\\Безопасность\\security-of-mobile-apps-2023\\WorkWithPermissions\\WorkWithPermissions\\WorkWithPermissions.csproj": {}
+  },
+  "projects": {
+    "C:\\Универ\\Безопасность\\security-of-mobile-apps-2023\\WorkWithPermissions\\HashProcess\\HashProcess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Универ\\Безопасность\\security-of-mobile-apps-2023\\WorkWithPermissions\\HashProcess\\HashProcess.csproj",
+        "projectName": "HashProcess",
+        "projectPath": "C:\\Универ\\Безопасность\\security-of-mobile-apps-2023\\WorkWithPermissions\\HashProcess\\HashProcess.csproj",
+        "packagesPath": "C:\\Users\\Вероника\\.nuget\\packages\\",
+        "outputPath": "C:\\Универ\\Безопасность\\security-of-mobile-apps-2023\\WorkWithPermissions\\HashProcess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Вероника\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Универ\\Безопасность\\security-of-mobile-apps-2023\\WorkWithPermissions\\PngProcess\\PngProcess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Универ\\Безопасность\\security-of-mobile-apps-2023\\WorkWithPermissions\\PngProcess\\PngProcess.csproj",
+        "projectName": "PngProcess",
+        "projectPath": "C:\\Универ\\Безопасность\\security-of-mobile-apps-2023\\WorkWithPermissions\\PngProcess\\PngProcess.csproj",
+        "packagesPath": "C:\\Users\\Вероника\\.nuget\\packages\\",
+        "outputPath": "C:\\Универ\\Безопасность\\security-of-mobile-apps-2023\\WorkWithPermissions\\PngProcess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Вероника\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Универ\\Безопасность\\security-of-mobile-apps-2023\\WorkWithPermissions\\WorkWithPermissions\\WorkWithPermissions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Универ\\Безопасность\\security-of-mobile-apps-2023\\WorkWithPermissions\\WorkWithPermissions\\WorkWithPermissions.csproj",
+        "projectName": "WorkWithPermissions",
+        "projectPath": "C:\\Универ\\Безопасность\\security-of-mobile-apps-2023\\WorkWithPermissions\\WorkWithPermissions\\WorkWithPermissions.csproj",
+        "packagesPath": "C:\\Users\\Вероника\\.nuget\\packages\\",
+        "outputPath": "C:\\Универ\\Безопасность\\security-of-mobile-apps-2023\\WorkWithPermissions\\WorkWithPermissions\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Вероника\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Универ\\Безопасность\\security-of-mobile-apps-2023\\WorkWithPermissions\\HashProcess\\HashProcess.csproj": {
+                "projectPath": "C:\\Универ\\Безопасность\\security-of-mobile-apps-2023\\WorkWithPermissions\\HashProcess\\HashProcess.csproj"
+              },
+              "C:\\Универ\\Безопасность\\security-of-mobile-apps-2023\\WorkWithPermissions\\PngProcess\\PngProcess.csproj": {
+                "projectPath": "C:\\Универ\\Безопасность\\security-of-mobile-apps-2023\\WorkWithPermissions\\PngProcess\\PngProcess.csproj"
+              },
+              "C:\\Универ\\Безопасность\\security-of-mobile-apps-2023\\WorkWithPermissions\\ZipProcess\\ZipProcess.csproj": {
+                "projectPath": "C:\\Универ\\Безопасность\\security-of-mobile-apps-2023\\WorkWithPermissions\\ZipProcess\\ZipProcess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "System.IO.Compression.ZipFile": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Универ\\Безопасность\\security-of-mobile-apps-2023\\WorkWithPermissions\\ZipProcess\\ZipProcess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Универ\\Безопасность\\security-of-mobile-apps-2023\\WorkWithPermissions\\ZipProcess\\ZipProcess.csproj",
+        "projectName": "ZipProcess",
+        "projectPath": "C:\\Универ\\Безопасность\\security-of-mobile-apps-2023\\WorkWithPermissions\\ZipProcess\\ZipProcess.csproj",
+        "packagesPath": "C:\\Users\\Вероника\\.nuget\\packages\\",
+        "outputPath": "C:\\Универ\\Безопасность\\security-of-mobile-apps-2023\\WorkWithPermissions\\ZipProcess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Вероника\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

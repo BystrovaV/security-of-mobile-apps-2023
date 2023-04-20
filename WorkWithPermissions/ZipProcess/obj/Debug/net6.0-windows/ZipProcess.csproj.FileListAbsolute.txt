@@ -1,0 +1,15 @@
+C:\Универ\Безопасность\security-of-mobile-apps-2023\WorkWithPermissions\ZipProcess\bin\Debug\net6.0-windows\ZipProcess.exe
+C:\Универ\Безопасность\security-of-mobile-apps-2023\WorkWithPermissions\ZipProcess\bin\Debug\net6.0-windows\ZipProcess.deps.json
+C:\Универ\Безопасность\security-of-mobile-apps-2023\WorkWithPermissions\ZipProcess\bin\Debug\net6.0-windows\ZipProcess.runtimeconfig.json
+C:\Универ\Безопасность\security-of-mobile-apps-2023\WorkWithPermissions\ZipProcess\bin\Debug\net6.0-windows\ZipProcess.dll
+C:\Универ\Безопасность\security-of-mobile-apps-2023\WorkWithPermissions\ZipProcess\bin\Debug\net6.0-windows\ZipProcess.pdb
+C:\Универ\Безопасность\security-of-mobile-apps-2023\WorkWithPermissions\ZipProcess\obj\Debug\net6.0-windows\ZipProcess.csproj.AssemblyReference.cache
+C:\Универ\Безопасность\security-of-mobile-apps-2023\WorkWithPermissions\ZipProcess\obj\Debug\net6.0-windows\ZipProcess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Универ\Безопасность\security-of-mobile-apps-2023\WorkWithPermissions\ZipProcess\obj\Debug\net6.0-windows\ZipProcess.AssemblyInfoInputs.cache
+C:\Универ\Безопасность\security-of-mobile-apps-2023\WorkWithPermissions\ZipProcess\obj\Debug\net6.0-windows\ZipProcess.AssemblyInfo.cs
+C:\Универ\Безопасность\security-of-mobile-apps-2023\WorkWithPermissions\ZipProcess\obj\Debug\net6.0-windows\ZipProcess.csproj.CoreCompileInputs.cache
+C:\Универ\Безопасность\security-of-mobile-apps-2023\WorkWithPermissions\ZipProcess\obj\Debug\net6.0-windows\ZipProcess.dll
+C:\Универ\Безопасность\security-of-mobile-apps-2023\WorkWithPermissions\ZipProcess\obj\Debug\net6.0-windows\refint\ZipProcess.dll
+C:\Универ\Безопасность\security-of-mobile-apps-2023\WorkWithPermissions\ZipProcess\obj\Debug\net6.0-windows\ZipProcess.pdb
+C:\Универ\Безопасность\security-of-mobile-apps-2023\WorkWithPermissions\ZipProcess\obj\Debug\net6.0-windows\ZipProcess.genruntimeconfig.cache
+C:\Универ\Безопасность\security-of-mobile-apps-2023\WorkWithPermissions\ZipProcess\obj\Debug\net6.0-windows\ref\ZipProcess.dll

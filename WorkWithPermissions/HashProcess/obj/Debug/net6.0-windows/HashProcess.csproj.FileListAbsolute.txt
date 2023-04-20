@@ -1,0 +1,15 @@
+C:\Универ\Безопасность\security-of-mobile-apps-2023\WorkWithPermissions\HashProcess\bin\Debug\net6.0-windows\HashProcess.exe
+C:\Универ\Безопасность\security-of-mobile-apps-2023\WorkWithPermissions\HashProcess\bin\Debug\net6.0-windows\HashProcess.deps.json
+C:\Универ\Безопасность\security-of-mobile-apps-2023\WorkWithPermissions\HashProcess\bin\Debug\net6.0-windows\HashProcess.runtimeconfig.json
+C:\Универ\Безопасность\security-of-mobile-apps-2023\WorkWithPermissions\HashProcess\bin\Debug\net6.0-windows\HashProcess.dll
+C:\Универ\Безопасность\security-of-mobile-apps-2023\WorkWithPermissions\HashProcess\bin\Debug\net6.0-windows\HashProcess.pdb
+C:\Универ\Безопасность\security-of-mobile-apps-2023\WorkWithPermissions\HashProcess\obj\Debug\net6.0-windows\HashProcess.csproj.AssemblyReference.cache
+C:\Универ\Безопасность\security-of-mobile-apps-2023\WorkWithPermissions\HashProcess\obj\Debug\net6.0-windows\HashProcess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Универ\Безопасность\security-of-mobile-apps-2023\WorkWithPermissions\HashProcess\obj\Debug\net6.0-windows\HashProcess.AssemblyInfoInputs.cache
+C:\Универ\Безопасность\security-of-mobile-apps-2023\WorkWithPermissions\HashProcess\obj\Debug\net6.0-windows\HashProcess.AssemblyInfo.cs
+C:\Универ\Безопасность\security-of-mobile-apps-2023\WorkWithPermissions\HashProcess\obj\Debug\net6.0-windows\HashProcess.csproj.CoreCompileInputs.cache
+C:\Универ\Безопасность\security-of-mobile-apps-2023\WorkWithPermissions\HashProcess\obj\Debug\net6.0-windows\HashProcess.dll
+C:\Универ\Безопасность\security-of-mobile-apps-2023\WorkWithPermissions\HashProcess\obj\Debug\net6.0-windows\refint\HashProcess.dll
+C:\Универ\Безопасность\security-of-mobile-apps-2023\WorkWithPermissions\HashProcess\obj\Debug\net6.0-windows\HashProcess.pdb
+C:\Универ\Безопасность\security-of-mobile-apps-2023\WorkWithPermissions\HashProcess\obj\Debug\net6.0-windows\HashProcess.genruntimeconfig.cache
+C:\Универ\Безопасность\security-of-mobile-apps-2023\WorkWithPermissions\HashProcess\obj\Debug\net6.0-windows\ref\HashProcess.dll
